@@ -1,0 +1,27 @@
+.backpack-term {
+    background-color: #0fb0ffd9;
+    border-radius: 10px;
+}
+.bg-light {
+    border-radius: 5px;
+}
+.backpack{
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.13), 0 6px 20px 0 rgba(0, 0, 0, 0.38);
+}
+.design{
+    background-color: #f4f4f4;
+    border-radius: 10px;
+}
+.links{
+    text-decoration: none;
+    color: white;
+}
+.links:hover{
+    color: white;
+}
